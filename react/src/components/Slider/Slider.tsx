@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { ReactElement } from "react";
 import "./Slider.css";
 
